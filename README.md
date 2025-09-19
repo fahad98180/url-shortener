@@ -14,3 +14,5 @@ It allows users to shorten long URLs, manage them via a dashboard, and quickly r
 - **Frontend:** React.js
 - **Backend:** Node.js, Express.js
 - **Database:** MongoDB
+
+- ![image alt](screenshort of prjct/before login interface.jpeg)
