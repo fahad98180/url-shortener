@@ -17,5 +17,7 @@ It allows users to shorten long URLs, manage them via a dashboard, and quickly r
 
 - ![image alt](screenshort%20of%20prjct/before%20login%20interface.jpeg)
 - - ![image alt](screenshort%20of%20prjct/enter%20email.png)
+  - ![After Login](screenshort%20of%20prjct/after%20login.jpeg)
+
 
 
